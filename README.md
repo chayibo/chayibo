@@ -1,76 +1,21 @@
-<h1 align="center">Hi, I'm Ahmed Adel 👋</h1>
-<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
-
-<p align="center">
-  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
-
----
-
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
-
-## 🚀 About Me
-
-```dart
-class AhmedAdel {
-  String role = "Flutter Developer & Instructor";
-  String language = "Arabic";
-  String brand = "Learn Simply | اتعلم ببساطة";
-  List<String> skills = [
-    "Flutter UI/UX",
-    "Dart Animations",
-    "Python, Java, C++",
-    "GitHub & Copilot",
-    "Arabic Content Creation"
-    "Simplify Code"
-  ];
-}
-```
-## 🔥 Highlights
-
-- 🔥 Built a YouTube channel with **230K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
-- 📦 Making **clean code fun** to learn for beginners
-
----
-
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
----
-
-## 🎬 My YouTube Focus
-
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
-
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
-
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<h2>Check My Nuxt Starter Kit</h2>
+  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
+      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
+    </a>
+<h2>Latest Blog Posts</h2>
+  <ul>
+  <li><a href=https://mokkapps.de/blog/why-i-developed-my-own-nuxt-starter-kit target="_blank" rel="noreferrer nofollow">Why I Developed My Own Nuxt Starter Kit for SaaS Products</a></li><li><a href=https://mokkapps.de/blog/document-your-nuxt-endpoints-with-open-api-and-visualize-with-swagger-or-scalar target="_blank" rel="noreferrer nofollow">Document Your Nuxt Endpoints With OpenAPI and Visualize With Swagger or Scalar</a></li><li><a href=https://mokkapps.de/vue-tips/managing-page-load-states-in-nuxt-with-use-loading-indicator target="_blank" rel="noreferrer nofollow">Nuxt Tip: Managing Page Load States With useLoadingIndicator</a></li><li><a href=https://mokkapps.de/vue-tips/use-effect-scope-for-managing-and-cleaning-up-reactive-effects target="_blank" rel="noreferrer nofollow">Vue Tip: Use effectScope for Managing and Cleaning Up Reactive Effects</a></li><li><a href=https://mokkapps.de/vue-tips/nuxt-parallel-fetch-requests target="_blank" rel="noreferrer nofollow">Nuxt Tip: Parallel Fetch Requests</a></li>
+  </ul>
+<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
+<h2>Latest Newsletter Issues</h2>
+  <ul>
+    <li><a href=https://weekly-vue.news/issues/v2/164 target="_blank" rel="noreferrer nofollow">Weekly Vue News #200 - 200th Issue Celebration</a></li><li><a href=https://weekly-vue.news/issues/v2/163 target="_blank" rel="noreferrer nofollow">Weekly Vue News #199 - Optimize Performance with useInfiniteScroll from VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/162 target="_blank" rel="noreferrer nofollow">Weekly Vue News #198 - Nuxt 4 Deep Dive, D3 Tips, and Smarter Coding with AI</a></li><li><a href=https://weekly-vue.news/issues/v2/161 target="_blank" rel="noreferrer nofollow">Weekly Vue News #197 - Nuxt Data Fetching Improvements</a></li><li><a href=https://weekly-vue.news/issues/v2/160 target="_blank" rel="noreferrer nofollow">Weekly Vue News #196 - Nuxt 3.17 is out</a></li>
+  </ul>
+<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
